@@ -28,8 +28,7 @@
         </p>
         <br>
         <p dir="auto">
-            No momento estou buscando um <b>estágio como desenvolvedor</b>, seja FRONT-END ou BACK-END, modesta
-            parte acho que me sairia bem em qualquer um dos dois.
+            <b>No momento estou estagiando como desenvolvedor de software na Arpia tecnologia.</b>
         </p>
         <br>
         <p dir="auto">
@@ -70,6 +69,11 @@
             </p>
             <p align="left" dir="auto">
                 ☕ Um café, 🎮 um jogo, e ⛈️ chuva melhora qualquer dia.
+            </p>
+            <br>
+            <p align="left" dir="auto">
+                👨‍💻 Você pode acessar o meu <a
+                    href="https://codepen.io/filipeoliveiragon" style="text-decoration:none; color: gray">Codepen.io</a>, tenho algumas pequenas implementações apenas por hobby 😅
             </p>
         </div>
         <br>
