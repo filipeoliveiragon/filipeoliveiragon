@@ -55,7 +55,10 @@
         <br>
         <div dir="auto">
             <p align="left" dir="auto">
-                💼 Trabalho como Freelancer de Designer Gráfico, Desginer UI e Desenvolvedor na <a
+                 💼 Atualmente estagiando como desenvolvedor de software na Arpia tecnologia.
+            </p>
+            <p align="left" dir="auto">
+                 💼 Como freelancer trabalho como Designer Gráfico, Desginer UI e Desenvolvedor na <a
                     href="instagram.com/rocketfox_mkt" style="text-decoration:none; color: gray">RocketFox -
                     Agência de Marketing</a>
             </p>
@@ -83,9 +86,9 @@
                 in/filipeoliveiragon </a>
         </p>
         <p align="left" dir="auto">
-            📌 Ou ir até o meu Instagram e me enviar uma mensagem <a href="instagram.com/filipe_devsigner"
+            📌 Ou ir até o meu Instagram e me enviar uma mensagem <a href="instagram.com/itsme_armstrong"
                 rel="nofollow" style="text-decoration:none; color: gray">
-                @filipe_devsigner </a>
+                @itsme_armstrong </a>
         </p>
         <p align="left" dir="auto">
             🧑‍💻 Alguns dos meus projetos desenvolvidos estão nos meus repositórios, fique a vontade para dar
