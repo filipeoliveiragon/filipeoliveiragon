@@ -53,7 +53,7 @@
         <br>
         <div dir="auto">
             <p align="left" dir="auto">
-                 💼 Atualmente estagiando como desenvolvedor de software na Arpia tecnologia.
+                 💼 Atualmente estou atuando como Desenvolvedor e Analista de software na Arpia tecnologia.
             </p>
             <p align="left" dir="auto">
                  💼 Como freelancer trabalho como Designer Gráfico, Desginer UI e Desenvolvedor na <a
