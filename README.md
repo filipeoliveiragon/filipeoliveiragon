@@ -28,12 +28,11 @@
         </p>
         <br>
         <p dir="auto">
-            <b>No momento estou estagiando como desenvolvedor de software na Arpia tecnologia.</b>
+            <b>No momento atuo como Desenvolvedor e Analisata de Software na Arpia tecnologia, localizada em Uberlândia.</b>
         </p>
         <br>
         <p dir="auto">
-            Visando o fullstack possui um conhecimento básico e intermediário, adquirido através de bootcamps e
-            experiências dentro e fora da faculdade, nas seguintes tecnologias e ferramentas.
+            Diante de bootcamps, e, experiências dentro e fora da faculdade, adquiri um bom conhecimento do básico ao intermediário nas seguintes tecnologias e               ferramentas.
         </p>
         <br>
         <h3 dir="auto">
