@@ -1,4 +1,4 @@
-<div class="position-relative">
+<div class="position-relative" style="display: none">
     <div class="Box mt-4">
         <div class="Box-body p-4">
             <div class="d-flex flex-justify-between">
